@@ -24,6 +24,6 @@ Stakeholders not only want you to create a colorful visual attractive report. Th
 
 I work on developing a problem-solving mindset.  As I solve more problems, my mind gets more analytical.
 
-I tried that with chatgpt, I ask it to act as a business owner who have a problem and need from me as a data analyst to discuss the situation!
+I tried that with chatgpt, I ask it to act as a business owner who have a problem and I took the role of a data analyst to understand and discuss the situation!
 
 Actually, I'm not sure if this is a good way to practice problem-solving skills. but anyway, I'll give it a try!
