@@ -23,3 +23,7 @@ In any business, when something goes wrong or needs improvement, the first thing
 Stakeholders not only want you to create a colorful visual attractive report. They want answers. They want insights that can help them make smart decisions and get to the root of the issue. That’s why the thinking and problem-solving part is so important—it’s what gives your report real purpose.
 
 I work on developing a problem-solving mindset.  As I solve more problems, my mind gets more analytical.
+
+I tried that with chatgpt, I ask it to act as a business owner who have a problem and need from me as a data analyst to discuss the situation!
+
+Actually, I'm not sure if this is a good way to practice problem-solving skills. but anyway, I'll give it a try!
