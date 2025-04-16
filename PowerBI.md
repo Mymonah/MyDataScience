@@ -1,7 +1,4 @@
 ## PowerBI
-The journey started with powerBI, it's also so trendy, you hear this word almost all the time, and occasionally you could ask yourself:<br/>
-"What's going on?!"<br/> 
-"Where am I from all these stuff??"
 
 Initially, when I searched for PowerBI for beginners on Google, I found this helpful YouTube channel:<br/> **Pragmatic works** | 
 [ULTIMATE Power BI Tutorial 📊 Beginner to Pro Course (2024)](https://www.youtube.com/watch?v=Dk25lwdTKow)
