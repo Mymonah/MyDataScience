@@ -1,3 +1,7 @@
+Last Update was on 18/04/2025
+Currenlty working on Python Learning..
+PowerBI is postboned now..
+
 ## PowerBI
 
 Initially, when I searched for PowerBI for beginners on Google, I found this helpful YouTube channel:<br/> **Pragmatic works** | 
