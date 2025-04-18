@@ -27,3 +27,12 @@ I work on developing a problem-solving mindset.  As I solve more problems, my mi
 I tried that with chatgpt, I ask it to act as a business owner who have a problem and I took the role of a data analyst to understand and discuss the situation!
 
 Actually, I'm not sure if this is a good way to practice problem-solving skills. but anyway, I'll give it a try!
+
+---
+### Data Collection:
+---
+### Data cleansing:
+---
+### Data Modeling:
+---
+### Data Visualization:
