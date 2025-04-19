@@ -35,7 +35,7 @@ Actually, I'm not sure if this is a good way to practice problem-solving skills.
 ---
 ### Data Collection:
 ---
-### Data cleansing:
+### Data Cleansing:
 ---
 ### Data Modeling:
 ---
