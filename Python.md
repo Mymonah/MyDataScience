@@ -10,3 +10,5 @@ It refers to an online environment (or virtual lab) where multiple people can co
 So, Google Colab (Collaboratory) is essentially a collaborative coding lab in the cloud, and is particularly well-suited for machine learning, data science, and educational purposes.<br/><br/>
 It is a cloud-based, "as-a-service" version of Jupyter Notebook that allows you to write and execute Python code directly through your browser—no installation required.
 
+<img src="/Assets/Python1.png" width="50%" align="center" alt="Python1.png">
+
