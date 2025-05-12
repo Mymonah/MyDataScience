@@ -5,6 +5,10 @@ Please consider these words to be personal thoughts rather than professional adv
 Here, I outline my entire journey toward the buzzword of the day— **Data Science**.<br/>
 
 ---
+## Python
+To learn more go to: [Pyhton Journey](https://github.com/Mymonah/MyDataScience/blob/main/Python.md)
+
+---
 ## PowerBI
 The journey started with **powerBI**, it's also so trendy, you hear this word almost all the time, and occasionally you could ask yourself:<br/>
 "What's going on?!"<br/> 
