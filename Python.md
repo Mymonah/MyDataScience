@@ -24,9 +24,10 @@ It is a cloud-based, "as-a-service" version of **Jupyter Notebook** that allows 
 
 <br/><br/>
 
-<img src="/Assets/Python1.png" width="50%" align="center" alt="Python1.png">
+<img src="/Assets/Python1.png" width="60%" align="center" alt="Python1.png">
 
 <br/><br/>
+
 --- 
 *"You said **"Jupyter Notebook"!** what is that?"*<br/>
 
@@ -40,12 +41,16 @@ Think of it like a digital notebook where:
 - The result appears just below it.
 - You can also add notes and explanations between your code.
 
+<br/><br/>
+<img src="/Assets/Python2.png" width="60%" align="center" alt="Python2.png">
+<br/><br/>
 
+As shown in the image above, here are a few key points to help clarify how Jupyter Notebooks work:
 
-
-
-
-
+1. The file extension for a Jupyter Notebook is **".ipynb"**, which stands for Interactive Python Notebook..
+2. the **"+ Code"** is used to add new cell where you can write and run Python code.
+3. the **"+ Text"** is used to add new cell  for writing text, formatted using Markdown—similar to how text is styled here on GitHub.
+4. the play button icon ▶️ or (shift + Enter) is used to run the code in a selected cell. Note that the first time you open a Colab notebook, it might take a few moments to connect to the runtime before code can execute.
 
 
 
