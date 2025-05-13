@@ -6,7 +6,7 @@ Here, I outline my entire journey toward the buzzword of the day— **Data Scien
 
 ---
 ## MyPython
-To learn more go to MyPython Series: [MyPython-1](https://github.com/Mymonah/MyDataScience/blob/main/Python/MyPython-1.md)
+To learn more go to MyPython Series: [MyPython-1](https://github.com/Mymonah/MyDataScience/blob/main/MyPython/MyPython-1.md)
 
 ---
 ## PowerBI
