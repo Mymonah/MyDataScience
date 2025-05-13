@@ -5,8 +5,8 @@ Please consider these words to be personal thoughts rather than professional adv
 Here, I outline my entire journey toward the buzzword of the day— **Data Science**.<br/>
 
 ---
-## Python
-To learn more go to MyPython Series: [Pyhton Journey](https://github.com/Mymonah/MyDataScience/blob/main/Python/Python-1.md)
+## MyPython
+To learn more go to MyPython Series: [MyPython-1](https://github.com/Mymonah/MyDataScience/blob/main/Python/MyPython-1.md)
 
 ---
 ## PowerBI
