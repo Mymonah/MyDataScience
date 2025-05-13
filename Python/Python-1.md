@@ -87,3 +87,17 @@ If you’re using Visual Studio Code, you can also:
 
 1. Install the Jupyter extension from the Extensions tab (Ctrl+Shift+X).
 2. Open any .ipynb file directly in VS Code and run cells like in a notebook
+
+--- 
+### Interpreter vs Compiler:
+When you write code in Python, you don’t need to compile it first like you would in languages such as C++ or Java. Instead, Python uses an interpreter.
+
+***What does that mean?***
+
+A compiler takes all your code at once, turns it into a machine-language file, and then runs it.<br/>
+An interpreter (like in Python) reads and runs your code line by line, instantly.
+
+***Why is this useful?***
+
+Because you can see results immediately, which is great for learning, testing, and quick feedback.<br/>
+It’s easier to catch errors in small parts of your code without compiling the whole program.
