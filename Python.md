@@ -52,5 +52,38 @@ As shown in the image above, here are a few key points to help clarify how Jupyt
 3. the **"+ Text"** is used to add new cell  for writing text, formatted using Markdown—similar to how text is styled here on GitHub.
 4. the play button icon ▶️ or (shift + Enter) is used to run the code in a selected cell. Note that the first time you open a Colab notebook, it might take a few moments to connect to the runtime before code can execute.
 
+---
+### Local IDE Setup
 
+All of the options mentioned above are used when you want to write and execute code in a cloud-based environment, like Google Colab through Google Drive.
+But what if you prefer to code and run everything on your local environment, directly on your personal computer?
 
+In that case, you can use a more traditional approach—something developers have relied on for decades: an IDE (Integrated Development Environment).
+One popular example is Visual Studio (or more commonly for Python development, Visual Studio Code) or pycharm.
+
+Here's a simple step-by-step guide to set up Visual Studio Code (VS Code) for Python development on your local machine:
+
+#### Step 1: Download and Install VS Code:
+1. Go to the official website: https://code.visualstudio.com
+2. Download the version for your operating system (Windows, macOS, or Linux).
+3. Install it like any standard software.
+
+#### Step 2: Install Python:
+1. Visit https://www.python.org/downloads
+2. Download the latest version of Python (e.g. Python 3.12).
+3. Important: During installation, make sure to check the box that says "Add Python to PATH".
+
+#### Step 3: Install Python Extension in VS Code
+1. Open VS Code.
+2. Go to the Extensions tab on the left sidebar (or press Ctrl+Shift+X).
+3. Search for “Python” (by Microsoft).
+4. Click Install.
+
+#### Step 4: Create and Run a Python File
+1. Create a new file and save it with a .py extension, for example: hello.py.
+
+#### Optional (Recommended): Use Jupyter in VS Code
+If you’re using Visual Studio Code, you can also:
+
+1. Install the Jupyter extension from the Extensions tab (Ctrl+Shift+X).
+2. Open any .ipynb file directly in VS Code and run cells like in a notebook
