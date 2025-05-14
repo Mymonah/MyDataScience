@@ -8,3 +8,8 @@ I think it’s like saying: “Hi! I’m ready to code!”
 ```
 print("Hello","World!")
 ```
+The Result is: 
+
+```
+Hello world!
+```
