@@ -4,3 +4,7 @@
 Honestly, I’m not sure why this specific example is the one that's repeated across almost every language, but it has somehow become a universal tradition in programming.
 
 I think it’s like saying: “Hi! I’m ready to code!”
+
+```
+print("Hello","World!")
+```
