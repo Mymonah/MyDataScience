@@ -43,3 +43,16 @@ It explains what the code below does.
 You can use triple quotes like this.
 """
 ```
+
+--- 
+### Variables:
+One of the most basic — yet important — topics in Python (and in most programming languages) is variables.</br>
+
+*Now, what comes to mind when we say the word "variable"?*
+
+For me, I think of it like this:
+
+A **variable** is like a reserved space in your computer’s memory, used to store a value that you might need to use or change later.
+
+It’s as if the computer saves a spot and puts a label on it, saying, “Hey, here’s a value you can come back to!”
+
