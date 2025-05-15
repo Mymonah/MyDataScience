@@ -13,3 +13,33 @@ The Result is:
 ```
 Hello world!
 ```
+
+So now you've stepped into the world of Python — hello from the Python world!</br>
+As you can see, the print statement is simple and straightforward.
+Unlike in C++, where you need to include headers like *`#include <iostream>`* and write multiple lines just to print a message, in Python one line. That's it.
+
+You can visit [w3schools](https://www.w3schools.com/python/python_syntax.asp) to learn more about Python syntax, how to write code, and how execution works.
+It’s a beginner-friendly website with interactive examples and simple explanations.
+
+---
+### Comments in python code:
+In Python — and in any programming language — comments are extremely important to include within your code.</br>
+Even though writing comments can sometimes feel frustrating or tedious :disappointed:, they become essential when someone else needs to read, understand, or continue your work.</br>
+Well-written comments help explain your code flow, purpose, and logic, making your code much easier to maintain and collaborate on.</br>
+
+- Comments can be added as single line using `#` as following:
+
+```
+# My comment
+# This code is printing etc.
+# My name is mymonah 
+```
+- For longer comments that span multiple lines in Python, you can use triple double quotes `"""` or triple single quotes `'''` as following:
+
+```
+"""
+This is a multi-line comment.
+It explains what the code below does.
+You can use triple quotes like this.
+"""
+```
