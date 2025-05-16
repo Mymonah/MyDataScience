@@ -1,6 +1,6 @@
 ### Hello World !
 
-**"Hello, world!"** — I still remember this classic example, often used as the very first line of code when learning any new programming language.
+**"Hello, world!"** I still remember this classic example, often used as the very first line of code when learning any new programming language.
 Honestly, I’m not sure why this specific example is the one that's repeated across almost every language, but it has somehow become a universal tradition in programming.
 
 I think it’s like saying: “Hi! I’m ready to code!”
@@ -14,7 +14,7 @@ The Result is:
 Hello world!
 ```
 
-So now you've stepped into the world of Python — hello from the Python world!</br>
+So now you've stepped into the world of Python, hello from the Python world!</br>
 As you can see, the print statement is simple and straightforward.
 Unlike in C++, where you need to include headers like *`#include <iostream>`* and write multiple lines just to print a message, in Python one line. That's it.
 
@@ -23,7 +23,7 @@ It’s a beginner-friendly website with interactive examples and simple explanat
 
 ---
 ### Comments in python code:
-In Python — and in any programming language — comments are extremely important to include within your code.</br>
+In Python and in any programming language, comments are extremely important to include within your code.</br>
 Even though writing comments can sometimes feel frustrating or tedious :disappointed:, they become essential when someone else needs to read, understand, or continue your work.</br>
 Well-written comments help explain your code flow, purpose, and logic, making your code much easier to maintain and collaborate on.</br>
 
@@ -46,7 +46,7 @@ You can use triple quotes like this.
 
 --- 
 ### Variables:
-One of the most basic — yet important — topics in Python (and in most programming languages) is variables.</br>
+One of the most basic and important topics in Python (and in most programming languages) is variables.</br>
 
 *Now, what comes to mind when we say the word "variable"?*
 
