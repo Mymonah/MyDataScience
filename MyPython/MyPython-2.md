@@ -73,3 +73,19 @@ print(type(x))  # Output: <class 'int'>
 name = "Mymonah"
 print(type(name))  # Output: <class 'str'>
 ```
+The last concept related to variables is called **"casting"**, which means changing the data type of a variable.
+For example, if you define x as an integer, you can later convert (or cast) it to a string, like this:
+
+```
+x = 5             # x is an integer
+x = str(x)        # now x is a string
+```
+Examples:
+
+```
+x = str(10)       # Converts the integer 10 to a string '10'
+x = float(10)     # Converts the integer 10 to a float 10.0
+x = int('10')     # Converts the string '10' to an integer 10
+x = int('A')      # Error! You can convert strings to integers only if the string contains numeric characters (like '123'), not letters or symbols.
+
+```
