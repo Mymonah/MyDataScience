@@ -25,7 +25,7 @@ It’s a beginner-friendly website with interactive examples and simple explanat
 ### Comments in python code:
 In Python and in any programming language, comments are extremely important to include within your code.</br>
 Even though writing comments can sometimes feel frustrating or tedious :disappointed:, they become essential when someone else needs to read, understand, or continue your work.</br>
-Well-written comments help explain your code flow, purpose, and logic, making your code much easier to maintain and collaborate on.</br>
+Well written comments help explain your code flow, purpose, and logic, making your code much easier to maintain and collaborate on.</br>
 
 - Comments can be added as single line using `#` as following:
 
