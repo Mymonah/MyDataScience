@@ -62,5 +62,5 @@ Variables in Python can store different types of data, such as **strings**, **in
 ```
 x = 4              # x is an integer
 y ="Mymonah"       # y is a string, 'Mymonah' is also a string, you can use double or single quote
-z = 2.90           # z is a float
+Y = 2.90           # Y is a float, pyhton is case sensitive, so y not equal Y
 ```
