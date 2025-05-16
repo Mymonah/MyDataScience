@@ -64,3 +64,12 @@ x = 4              # x is an integer
 y ="Mymonah"       # y is a string, 'Mymonah' is also a string, you can use double or single quote
 Y = 2.90           # Y is a float, pyhton is case sensitive, so y not equal Y
 ```
+You can check the type of any variable in Python using the built-in type() function.
+
+```
+x = 10
+print(type(x))  # Output: <class 'int'>
+
+name = "Mymonah"
+print(type(name))  # Output: <class 'str'>
+```
