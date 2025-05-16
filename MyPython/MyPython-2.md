@@ -56,3 +56,11 @@ A **variable** is like a reserved space in your computer’s memory, used to sto
 
 It’s as if the computer saves a spot and puts a label on it, saying, “Hey, here’s a value you can come back to!”
 
+
+Variables in Python can store different types of data, such as **strings**, **integers**, and **floats**. Unlike some other programming languages, Python has no specific command to declare a variable. You simply assign a value to a name, and Python figures out the type automatically.
+
+```
+x = 4              # x is an integer
+y ="Mymonah"       # y is a string, 'Mymonah' is also a string, you can use double or single quote
+z = 2.90           # z is a float
+```
