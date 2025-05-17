@@ -92,3 +92,19 @@ x = int('10')     # Converts the string '10' to an integer 10
 x = int('A')      # Error! You can convert strings to integers only if the string contains numeric characters (like '123'), not letters or symbols.
 
 ```
+#### CRUD:
+CRUD stands for the four basic operations you can perform on data:
+- **C** => Create
+- **R** => Read
+- **U** => Update
+- **D** => Delete
+
+This simple concept can be applied to basic variables, as shown in the following table:
+
+|   |   |   |
+|---|---|---|
+|**Operation**|**Description**|**Example**|
+|Create|Define a variable|`x = 10`|
+|Read|Access its value|`print(x)`|
+|Update|Change its value|`x = 20`|
+|Delete|Remove the variable|`del x`|
