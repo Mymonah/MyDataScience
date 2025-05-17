@@ -4,7 +4,7 @@ It pauses the program and waits for the user to type something, **<u>then return
 
 It's very important to keep in mind that the `input()` function always returns a string, even if the user types a number.
 
-So, if you're asking the user to enter a number and you want to perform arithmetic operations, you need to convert the input to an appropriate type usually int or float.
+So, if you're asking the user to enter a number and you want to perform arithmetic operations, you need to convert the input to an appropriate type usually int or float as we learned in [castings](https://github.com/Mymonah/MyDataScience/blob/main/MyPython/MyPython-2.md#castings).
 
 The syntax is `input(prompt)`, prompt: is a string, representing a default message before the input.
 
