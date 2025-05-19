@@ -16,7 +16,7 @@ When you run a program that uses the `input()` function, the execution pauses an
 <img src="/Assets/Python3.png" width="60%" align="center" alt="Python3.png">
 </br></br>
 
-### Arithmetic Operations:
+### Arithmetic Operaters:
 It includes all basic arithmetic operations that can be performed on variables, such as addition, subtraction, multiplication, division, and more.
 |   |   |   |   |   |
 |---|---|---|---|---|
