@@ -74,7 +74,7 @@ name = "Mymonah"
 print(type(name))  # Output: <class 'str'>
 ```
 
-#### Castings:
+#### Casting:
 
 The last concept related to variables is called **"casting"**, which means changing the data type of a variable.
 For example, if you define x as an integer, you can later convert (or cast) it to a string, like this:
