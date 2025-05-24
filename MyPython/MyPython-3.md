@@ -29,6 +29,19 @@ It includes all basic arithmetic operations that can be performed on variables, 
 |%|Modulus (Remainder)|10 % 3|1|Returns the remainder after division|
 |**|Exponentiation (power)|10 ** 3|1000|Raises the first number to the power of the second|
 
+We can also use varibles combined with arithmetic operations as following:
+```
+x+=2  # x = x+2
+x-=2  # x = x-2
+x*=2  # x = x*2
+x/=2  # x = x/2
+x//=2 # x = x//2
+x%=2  # x = x%2
+x**=2 # x = x**2
+
+```
+
+
 ### Comparison Operations:
 These are used to compare values, the result is always True or False.
 |   |   |   |
@@ -40,3 +53,15 @@ These are used to compare values, the result is always True or False.
 |<|Less than|3 < 7 → True|
 |>=|Greater or equal|3 >= 3 → True|
 |<=|Less or equal|3 <= 6 → True|
+
+### Logical Operations:
+These are used to combine conditional statements as shown in the **Truth Table** below:
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**A**|**B**|**A AND B**|**A OR B**|**NOT A**|**NOT B**|
+|True|True|True|True|False|False|
+|True|False|False|True|False|True|
+|False|True|False|True|True|False|
+|False|False|False|False|True|True|
+
