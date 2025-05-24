@@ -27,4 +27,4 @@ It includes all basic arithmetic operations that can be performed on variables, 
 |/|Division|10 / 3|3.333...|Divides the first number by the second|
 |//|Floor Division|10 // 3|3|Divides and rounds down to nearest integer|
 |%|Modulus (Remainder)|10 % 3|1|Returns the remainder after division|
-|**|Exponentiation|10 ** 3|1000|Raises the first number to the power of the second|
+|**|Exponentiation (power)|10 ** 3|1000|Raises the first number to the power of the second|
