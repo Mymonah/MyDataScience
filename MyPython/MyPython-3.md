@@ -16,7 +16,7 @@ When you run a program that uses the `input()` function, the execution pauses an
 <img src="/Assets/Python3.png" width="60%" align="center" alt="Python3.png">
 </br></br>
 
-### Arithmetic Operaters:
+### Arithmetic Operations:
 It includes all basic arithmetic operations that can be performed on variables, such as addition, subtraction, multiplication, division, and more.
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -28,3 +28,15 @@ It includes all basic arithmetic operations that can be performed on variables, 
 |//|Floor Division|10 // 3|3|Divides and rounds down to nearest integer|
 |%|Modulus (Remainder)|10 % 3|1|Returns the remainder after division|
 |**|Exponentiation (power)|10 ** 3|1000|Raises the first number to the power of the second|
+
+### Comparison Operations:
+These are used to compare values, the result is always True or False.
+|   |   |   |
+|---|---|---|
+|**Operator**|**Meaning**|**Example**|
+|==|Equal to|3 == 3 → True|
+|!=|Not equal to|5 != 3 → True|
+|>|Greater than|7 > 3 → True|
+|<|Less than|3 < 7 → True|
+|>=|Greater or equal|3 >= 3 → True|
+|<=|Less or equal|3 <= 6 → True|
