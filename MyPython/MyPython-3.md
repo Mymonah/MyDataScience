@@ -31,13 +31,13 @@ It includes all basic arithmetic operations that can be performed on variables, 
 
 We can also use varibles combined with arithmetic operations as following:
 ```
-x+=2  # x = x+2
-x-=2  # x = x-2
-x*=2  # x = x*2
-x/=2  # x = x/2
-x//=2 # x = x//2
-x%=2  # x = x%2
-x**=2 # x = x**2
+x+=2      # x = x + 2
+x-=2      # x = x - 2
+x*=2      # x = x * 2
+x/=2      # x = x / 2
+x//=2     # x = x // 2
+x%=2      # x = x % 2
+x**=2     # x = x ** 2
 
 ```
 
