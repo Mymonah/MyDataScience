@@ -25,6 +25,6 @@ It includes all basic arithmetic operations that can be performed on variables, 
 |-|Subtraction|10 - 3|7|Subtracts the second number from the first|
 |*|Multiplication|10 * 3|30|Multiplies two numbers|
 |/|Division|10 / 3|3.333...|Divides the first number by the second|
-|//|Floor Division|10 // 3|3|Divides and rounds down to nearest whole|
+|//|Floor Division|10 // 3|3|Divides and rounds down to nearest integer|
 |%|Modulus (Remainder)|10 % 3|1|Returns the remainder after division|
 |**|Exponentiation|10 ** 3|1000|Raises the first number to the power of the second|
