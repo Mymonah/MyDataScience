@@ -65,3 +65,21 @@ These are used to combine conditional statements as shown in the **Truth Table**
 |False|True|False|True|True|False|
 |False|False|False|False|True|True|
 
+### Order of Operations:
+In Python, the order of operations tells us which part of an expression gets calculated first. Python follows a set of rules called operator precedence to decide this.
+
+Here’s the order, from highest to lowest:
+
+1. Parentheses () – Do these first.
+2. Exponents ** – Powers like 2**3.
+3. Multiplication, division, floor division, and modulus * / // %
+4. Addition and subtraction + -
+5. Comparisons == != > >= < <=
+6. Logical not
+7. Logical and
+8. Logical or
+
+>> If two operations have the same priority, Python usually works left to right except for powers (**), which go right to left.
+
+The left-to-right rule is generally understood, but exponentiation can be a bit confusing. So, it will be explained using an example from Stack Overflow.
+<img src="/Assets/Python3.png" width="60%" align="center" alt="Python3.png">
