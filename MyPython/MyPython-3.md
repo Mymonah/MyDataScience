@@ -84,3 +84,7 @@ Here’s the order, from highest to lowest:
 The left-to-right rule is generally understood, but exponentiation can be a bit confusing. So, it will be explained using an [example from Stack Overflow](https://stackoverflow.com/questions/47429513/why-is-exponentiation-applied-right-to-left).
 
 <img src="/Assets/Python4.png" width="70%" align="center" alt="Python4.png">
+
+This can absolutely be tested using Python as following:
+
+<img src="/Assets/Python5.png" width="60%" align="center" alt="Python5.png">
