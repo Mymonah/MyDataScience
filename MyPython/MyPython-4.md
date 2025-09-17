@@ -1,6 +1,6 @@
 
 ## f-string
-**f-string** or (**formatted string literal**) lets you easily embed **variables** or **expressions** directly inside a string using curly braces {} without needing extra steps.
+**f-string** or (**formatted string literal**) lets you easily embed **variables** or **expressions** directly inside a string using curly braces `{}` without needing extra steps.
 
 - Without using f-string:
 ```
