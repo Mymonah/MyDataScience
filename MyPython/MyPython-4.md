@@ -58,3 +58,31 @@ print(f"{0.12345:.0%}") #Result: 12%
 print(f"{0.12345:.1%}") #Result: 12.3%
 print(f"{0.12345:.2%}") #Result: 12.35%
 ```
+## String Operations
+
+### Concatenation `+`
+
+In Python, the `+` operator, when used with strings, is called **concatenation**.
+
+**Concatenation** means joining two or more strings together to form a single string.
+
+```
+FirstName = 'Mymonah'
+LastName = 'Khasawneh'
+
+print(FirstName+" "+LastName) #Result: Mymonah Khasawneh
+```
+> **Important**: Only strings can be concatenated with `+`. If you try to add a string and a number directly, Python will raise an error.
+
+### Multiplication `*`
+
+In Python, you can also use the `*` operator with strings, and it's called string multiplication or string repetition.
+
+Using the `*` operator, you can repeat a string multiple times.
+
+```
+print("-" * 20)  #Result: --------------------
+```
+ **Rules**: 
+ - You can multiply a string by an integer.
+ - You can't multiply a string by a float or another string.
