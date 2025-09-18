@@ -47,3 +47,14 @@ The current temperature is 23.6°C
 The current temperature is 23.56°C
 The current temperature is 23.565°C
 ```
+### What does .0%, .1%, etc. mean?
+It is part of percentage formatting, and it controls how a number is displayed as a percentage.
+
+- The `% `symbol tells Python to multiply the number by 100 and add a percent sign (%) at the end.
+- The `.0` part specifies the number of decimal places to show (in this case, zero decimal places).
+
+```
+print(f"{0.12345:.0%}") #Result: 12%
+print(f"{0.12345:.1%}") #Result: 12.3%
+print(f"{0.12345:.2%}") #Result: 12.35%
+```
