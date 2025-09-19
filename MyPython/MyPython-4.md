@@ -86,3 +86,27 @@ print("-" * 20)  #Result: --------------------
  **Rules**: 
  - You can multiply a string by an integer.
  - You can't multiply a string by a float or another string.
+
+### Escape character `\`
+An escape character is a special symbol (usually the backslash \) used to change the normal meaning of the character that comes after it.
+
+An escape character tells the computer: **“Treat the next character differently.”**
+
+Escape characters are used inside strings to:
+
+- Format text (e.g. new lines, tabs)
+- Include special characters (e.g. quotes, backslashes)
+- Represent characters that can’t be typed directly
+
+
+
+|                 |                  |                          |                            |
+| --------------- | ---------------- | ------------------------ | -------------------------- |
+| **Escape Code** | **Meaning**      | **Example in Code**      | **Output**                 |
+|`\\`             | Backslash        | `print("C:\\Users\\John")` | C:\Users\John              |
+|`\'`             | Single quote     | `print('It\'s fine')`      | It's fine                  |
+|`\"`             | Double quote     | `print("He said, \"Hi\"")` | He said, "Hi"              |
+|`\n`              | New line         | `print("Hello\nWorld")`    | Hello  <br>World           |
+|`\t`              | Tab (horizontal) | `print("Name:\tJohn")`     | Name: John                 |
+|`\r`              | Carriage return  | `print("Hello\rWorld")`    | World (overwrites "Hello") |
+|`\b`              | Backspace        | `print("Helloo\b")`        | Hello (removes the last "o") |
