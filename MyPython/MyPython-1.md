@@ -25,7 +25,7 @@ It is a cloud-based, "as-a-service" version of **Jupyter Notebook** that allows 
 
 <br/><br/>
 
-<img src="/Assets/Python1.png" width="60%" align="center" alt="Python1.png">
+<img src="/MyDataScience/Assets/Python1.png" width="60%" align="center" alt="Python1.png">
 
 <br/><br/>
 
