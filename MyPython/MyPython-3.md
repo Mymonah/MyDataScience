@@ -5,7 +5,8 @@
 
 ## input() function 
 The built-in `input()` function in Python is used to get input from the user during program execution.
-It pauses the program and waits for the user to type something, **<u>then returns the input as a string**.</br>
+It pauses the program and waits for the user to type something, **then returns the input as a string**.
+
 
 **It's very important to keep in mind that the `input()` function always returns a string, even if the user types a number**.
 
@@ -25,6 +26,7 @@ When you run a program that uses the `input()` function, the execution pauses an
 
 ## Arithmetic Operations:
 It includes all basic arithmetic operations that can be performed on variables, such as addition, subtraction, multiplication, division, and more.
+
 |   |   |   |   |   |
 |---|---|---|---|---|
 |**Operator**|**Name**|**Example**|**Result**|**Description**|
@@ -51,6 +53,7 @@ x ** = 2     # x = x ** 2
 
 ### Comparison Operations:
 These are used to compare values, the result is always True or False.
+
 |   |   |   |
 |---|---|---|
 |**Operator**|**Meaning**|**Example**|
