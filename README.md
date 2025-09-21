@@ -1,4 +1,6 @@
+
 # MyDataScience
+[About me](AboutMe.md)
 
 Hello again,<br/>
 Please consider these words to be personal thoughts rather than professional advice.<br/>
